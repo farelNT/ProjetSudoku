@@ -13,6 +13,8 @@
 #define sfcf sfTexture_createfromfile
 #define sfwc sfRenderWindows_create
 
+test de modification ca va?
+
 
 
 #endif // MY_H_INCLUDED
