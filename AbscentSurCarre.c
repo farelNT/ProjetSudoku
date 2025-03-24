@@ -10,3 +10,4 @@ bool absentSurCarre (int k, int grille[9][9], int i, int j)
                 return false;
     return true;
 }
+j'espere que c'est bon maintenant.
